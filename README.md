@@ -1,4 +1,4 @@
-<h1 align="center">Abell Custom Routing Example </h1>
+<h1 align="center">Abell Custom Routing Example</h1>
 
 <p align="center"><a href="https://stackblitz.com/~/github.com/saurabhdaware/abell-custom-routing-example"><img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" / alt="Open in Stackblitz" /></b></a></p>
 
