@@ -1,0 +1,6 @@
+<html>
+  <body>
+    <p>Hello from Index Page!!</p>
+    <p>Checkout <a href="/about">/about</a> Route</p>
+  </body>
+</html>

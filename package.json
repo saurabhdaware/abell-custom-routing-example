@@ -1,0 +1,11 @@
+{
+  "name": "abell-custom-routing-example",
+  "type": "module",
+  "scripts": {
+    "dev": "abell dev",
+    "generate": "abell generate"
+  },
+  "devDependencies": {
+    "abell": "^1.0.0-beta.1"
+  }
+}
