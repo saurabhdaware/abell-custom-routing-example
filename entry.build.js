@@ -8,7 +8,7 @@ export const makeRoutes =  () => {
     {
       path: '/',
       // abell components are functions that return HTML string
-      render: () => index()
+      render: () => index(),
     },
     {
       path: '/about',
