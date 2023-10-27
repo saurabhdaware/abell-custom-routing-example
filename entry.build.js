@@ -1,4 +1,4 @@
-import index from './index.abell';
+import anuragPage from './anurag-page';
 
 /**
  * @returns {import('abell').Route[]}
@@ -8,14 +8,11 @@ export const makeRoutes =  () => {
     {
       path: '/',
       // abell components are functions that return HTML string
-      render: () => index()
+      render: () => anuragPage({ name: 'Saurabh', activeURL: '/' })
     },
     {
-      path: '/about',
-      render: () => {
-        // You can return any HTML here however you like :D
-        return '<body>We can return <b>any HTML</b> string here</body>';
-      }
+      path: '/anu',
+      render: () => anuragPage({ name: 'Anurag', activeURL: '/anu' })
     }
   ]
 }
